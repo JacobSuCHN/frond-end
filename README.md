@@ -1,5 +1,6 @@
 # Front-end
 
-- [ ] ES实战
-- [ ] Vue状态管理
+- [ ] TS
+- [ ] ES 实战
+- [ ] Vue 状态管理
 - [ ] SSR
